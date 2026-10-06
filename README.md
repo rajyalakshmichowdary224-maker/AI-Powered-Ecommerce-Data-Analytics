@@ -48,3 +48,23 @@ Google AI Studio was used to generate AI-powered business insights from the e-co
 
 ## Objective
 To transform raw e-commerce data into meaningful business insights and an interactive analytics solution.
+
+## Project Workflow
+1. Data Collection – Kaggle dataset
+2. Data Cleaning & Analysis – Python, Pandas
+3. Database Analysis – SQL / MySQL
+4. Data Visualization – Power BI
+5. AI-Powered Insights – Google AI Studio
+6. Web Dashboard – Lovable
+7. Project Documentation – GitHub
+
+## Project Highlights
+- Analyzed 5,000 e-commerce orders
+- Performed data cleaning and exploratory data analysis
+- Created interactive Power BI dashboard
+- Used SQL queries for business analysis
+- Generated AI-powered business insights
+- Built a portfolio-ready analytics solution
+
+## Skills Demonstrated
+Python | Pandas | NumPy | SQL | Power BI | Data Visualization | EDA | AI Analytics | Business Insights
